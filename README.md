@@ -1,2 +1,2 @@
-# perfsyn
+# PerfSyn
 Program Synthesis for Performance Bottlenecks
