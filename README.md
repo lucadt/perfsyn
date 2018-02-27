@@ -10,7 +10,11 @@ Michael Pradel (TU Darmstadt, Germany)
 Thomas Gross (ETH Zurich, Switzerland)
 ```
 
-This short tutorial shows how to build and use PerfSyn.
+This short tutorial shows how to build and use PerfSyn. 
+The code of PerfSyn is actively maintained in another private repository.
+Contact **Luca Della Toffola** via [e-mail](luca.dellatoffola@inf.ethz.ch)
+to obtain the latest snapshot of the code and/or the version used in the 
+evaluation of the paper.
 
 ## Dependencies
 The program generation and analysis framework are written in Scala and the profiling framework is written in Java,
