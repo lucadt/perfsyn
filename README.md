@@ -10,7 +10,7 @@ Michael Pradel (TU Darmstadt, Germany)
 Thomas Gross (ETH Zurich, Switzerland)
 ```
 The code of PerfSyn is actively maintained in another private repository.
-Contact [Luca Della Toffola](luca.dellatoffola@inf.ethz.ch)
+Contact [Luca Della Toffola](https://lucadt.github.io)
 to obtain the latest snapshot of the code and/or the version used in the 
 evaluation of the paper.
 
